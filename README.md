@@ -2,11 +2,11 @@
 
 # Deepanshu Chalia
 
-##### Highly motivated Computer Engineering Master's student at Southern Methodist University with a strong academic background and hands-on tech experience seeking to leverage skills in a challenging role.
+#### Highly motivated Computer Engineering Master's student at Southern Methodist University with a strong academic background and hands-on tech experience seeking to leverage skills in a challenging role.
 * Expertise in programming languages (Python, SQL, JavaScript) and frameworks (React, Flask) enables building robust backends, APIs, databases, and even web interfaces.
 * Experience translates to proficiency in backend development, API development, database design, and web styling.
 * Active participation in strength training, dance, and sports demonstrates strong teamwork and leadership abilities.
-##### Eager to contribute to a team environment and collaborate on achieving goals. Reach out to discuss how my skills can benefit your organization!
+#### Eager to contribute to a team environment and collaborate on achieving goals. Reach out to discuss how my skills can benefit your organization!
 
 ## Skills and Experience
 * ⚛️ React
