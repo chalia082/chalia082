@@ -8,11 +8,6 @@
 * Active participation in strength training, dance, and sports demonstrates strong teamwork and leadership abilities.
 #### Eager to contribute to a team environment and collaborate on achieving goals. Reach out to discuss how my skills can benefit your organization!
 
-## Skills and Experience
-* ⚛️ React
-* 💻 HTML, CSS, JS
-* 👯 I’m looking to collaborate on Software Development 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepanshu.chalia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-chalia) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cherry-odyssey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChaliaDeepanshu)
 
@@ -35,12 +30,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chalia082&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chalia082&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=chalia082&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=chalia082&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chalia082&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalia082)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chalia082&show_icons=true) 
 
 
 
