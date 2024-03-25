@@ -1,6 +1,6 @@
 ### Hi there 👋, Deepanshu Chalia
 #### Design and Development
-![Design and Development]([https://drive.google.com/file/d/1vtuWev14OrzcGwd0CTLHhs46eK4y92S1/view?usp=sharing](https://drive.fife.usercontent.google.com/u/0/d/1vtuWev14OrzcGwd0CTLHhs46eK4y92S1=w200-h190-p-k-rw-v1-nu-iv1))
+![Design and Development](https://drive.fife.usercontent.google.com/u/0/d/1vtuWev14OrzcGwd0CTLHhs46eK4y92S1=w200-h190-p-k-rw-v1-nu-iv1)
 
 I am a driven computer engineering graduate from Southern Methodist University, seeking a full-time position as a software developer. With a solid foundation in programming languages such as Python, C/C++, JavaScript, and SQL, and a thorough understanding of data structures, algorithms, and object-oriented programming, I am well-equipped to contribute significantly to any software development team.
 
