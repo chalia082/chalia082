@@ -7,7 +7,6 @@ I am a driven computer engineering graduate from Southern Methodist University, 
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, JS
-
 - 👯 I’m looking to collaborate on Software Development 
 - 📫 How to reach me: dchalia@smu.edu 
 - 😄 Pronouns: He/Him 
