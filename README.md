@@ -7,10 +7,8 @@ I am a driven computer engineering graduate from Southern Methodist University, 
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, JS
-- 👯 I’m looking to collaborate on Software Development 
-- 📫 How to reach me: dchalia@smu.edu 
-- 😄 Pronouns: He/Him 
+* 👯 I’m looking to collaborate on Software Development 
+* 📫 How to reach me: dchalia@smu.edu  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chalia082)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deep-chalia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/deepanshu.chalia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ChaliaDeepanshu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/cherry-odyssey)  
-
