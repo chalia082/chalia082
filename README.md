@@ -2,7 +2,7 @@
 
 # Deepanshu Chalia
 
-I am a driven computer engineering graduate from Southern Methodist University, seeking a full-time position as a software developer. With a solid foundation in programming languages such as Python, C/C++, JavaScript, and SQL, and a thorough understanding of data structures, algorithms, and object-oriented programming, I am well-equipped to contribute significantly to any software development team.
+I am a driven 24 year old pursuing a masters degree in computer engineering at Southern Methodist University. With a solid academic background and hands on experience in tech, I'm seeking opportunities to bring my skillset to the table. I have experience using programming languages like Python, SQL and JavaScript and I am comfortable using frameworks such as React and Flask. So I could do not only build robust backend but can also perform tasks like API development, Database design and even web styling. My interests in Strength Training, dance and sports reflects my teamwork and leadership skills. So, if you are interested in recruiting me, please give me a call or send a message and together we'll get things done.
 
 ## Skills and Experience
 * ⚛️ React
